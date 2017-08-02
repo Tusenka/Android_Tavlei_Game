@@ -1,0 +1,156 @@
+open-chess-atlas.png
+size: 449, 192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black-rook1
+  rotate: false
+  xy: 71, 133
+  size: 62, 58
+  orig: 64, 64
+  offset: 1, 0
+  index: -1
+black-rook2
+  rotate: false
+  xy: 333, 133
+  size: 64, 52
+  orig: 64, 64
+  offset: 0, 6
+  index: -1
+black-rook3
+  rotate: false
+  xy: 135, 133
+  size: 64, 54
+  orig: 64, 64
+  offset: 0, 2
+  index: -1
+black-rook4
+  rotate: false
+  xy: 201, 133
+  size: 64, 54
+  orig: 64, 64
+  offset: 0, 2
+  index: -1
+black-rook5
+  rotate: false
+  xy: 267, 133
+  size: 64, 54
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+button-down
+  rotate: false
+  xy: 1, 1
+  size: 68, 68
+  split: 7, 7, 7, 7
+  pad: -1, -1, -1, -1
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 1, 71
+  size: 68, 68
+  split: 4, 4, 4, 4
+  pad: -1, -1, -1, -1
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+tile-1-highlighted
+  rotate: false
+  xy: 71, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tile-1
+  rotate: false
+  xy: 71, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tile-2-highlighted
+  rotate: false
+  xy: 137, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tile-2
+  rotate: false
+  xy: 137, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tile-3-highlighted
+  rotate: false
+  xy: 203, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tile-3
+  rotate: false
+  xy: 203, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tile-captured
+  rotate: false
+  xy: 269, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+white-king1
+  rotate: false
+  xy: 269, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+white-king2
+  rotate: false
+  xy: 335, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+white-rook1
+  rotate: true
+  xy: 401, 1
+  size: 54, 46
+  orig: 64, 64
+  offset: 5, 6
+  index: -1
+white-rook2
+  rotate: false
+  xy: 335, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+white-rook3
+  rotate: true
+  xy: 399, 133
+  size: 52, 49
+  orig: 64, 64
+  offset: 6, 1
+  index: -1
+white-rook4
+  rotate: false
+  xy: 1, 141
+  size: 52, 49
+  orig: 64, 64
+  offset: 6, 1
+  index: -1
+white-rook5
+  rotate: true
+  xy: 401, 57
+  size: 54, 46
+  orig: 64, 64
+  offset: 5, 6
+  index: -1
