@@ -1,4 +1,4 @@
-Open Chess
+Tavlei Gamw
 ==========
-
-A cross-platform open source chess game project.
+Simple tavlei android libgdx game. Uses OpenChess and the author's tavlei library. 
+Updated to the last gradle version.
